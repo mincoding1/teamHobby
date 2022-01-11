@@ -9,3 +9,5 @@
 ## 채팅방
 
 홍길동 : How Are You?
+김철수 : I AM FINE THANKYOU?
+김철수 : HOW'S WEATHER DODAY?
