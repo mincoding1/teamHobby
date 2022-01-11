@@ -8,6 +8,9 @@
 
 ## 채팅방
 
-홍길동 : How Are You?
-김철수 : I AM FINE THANKYOU?
-김철수 : HOW'S WEATHER DODAY?
+홍길동 : How Are You? <br>
+김철수 : I AM FINE THANKYOU?<br>
+김철수 : HOW'S WEATHER DODAY?<br>
+Mr.달링 : 날씨는 화창하다 휴먼 <br>
+Mr.달링 : 소는 어느 나라 것이 맛있어요? <br>
+
